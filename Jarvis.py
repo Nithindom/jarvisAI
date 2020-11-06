@@ -58,6 +58,6 @@ def takecommand():
 
 # ......................Main Function........................
 if __name__ == "__main__":
-    # wishme()
+    wishme()
     while True:
         takecommand()
